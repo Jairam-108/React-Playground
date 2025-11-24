@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Explore react using parcle bundler",
+  "homepage": "https://github.com/Jairam-108/React-Playground#readme",
+  "bugs": {
+    "url": "https://github.com/Jairam-108/React-Playground/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jairam-108/React-Playground.git"
+  },
+  "license": "ISC",
+  "author": "Srinivasulu Madala",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
